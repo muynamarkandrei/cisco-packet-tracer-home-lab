@@ -1,4 +1,6 @@
-# cisco-packet-tracer-home-lab# Cisco Packet Tracer Home LAN
+#cisco-packet-tracer-home-lab# 
+
+Cisco Packet Tracer Home LAN
 
 A beginner networking lab created in Cisco Packet Tracer to understand how a basic home/local area network works.
 
